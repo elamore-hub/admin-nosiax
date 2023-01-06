@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = com.universign.universigncs.nosiax.config.TestContainersSpringContextCustomizerFactory
